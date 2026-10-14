@@ -2,7 +2,7 @@
 
 
 
-\# NumPy Mastery
+# NumPy Mastery
 
 
 
