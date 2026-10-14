@@ -6,7 +6,7 @@
 
 **Python 3.10+** · **NumPy** · **Jupyter Notebooks** · **Focus: Machine Learning and Data Science**
 
-**11 topics** · **2 phases** · **19 notebooks** · **15 PDF notes** · **1 applied project**
+**11 topics** · **2 phases** · **19 notebooks** · **15 PDF notes** 
 
 </div>
 
